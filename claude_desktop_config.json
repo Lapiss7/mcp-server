@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "kali-bug-hunter": {
+      "command": "python",
+      "args": [
+        "-u",
+        "C:/Users/Ekas/Desktop/win_server.py"
+      ]
+    }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false
+  }
+}
